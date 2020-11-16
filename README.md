@@ -1,5 +1,5 @@
-
 ![](https://raw.githubusercontent.com/superleeyom/blog/main/img/iShot20201115.png)
+
 
 ## 硬件配置
 其实我这台黑苹果，今年年初三月份的时候就装好了，周末趁着有空，把系统升级到了 `macOS Big Sur` ，在此总结下自己的整个的安装的一些心得。
@@ -65,8 +65,7 @@
 ## 资源附件
 
 - 我目前在用的这台机器的 [EFI](https://github.com/superleeyom/B365ITX-Hackintosh-OpenCore)
-  - 原作者的 [EFI](https://github.com/Good0007/B365ITX-Hackintosh-OC)
-- 需要用到的工具：
-  - [opencore-configurator](https://mackie100projects.altervista.org/download-opencore-configurator/)
-  - [Hackintool](https://github.com/headkaze/Hackintool/releases)
+- 原作者的 [EFI](https://github.com/Good0007/B365ITX-Hackintosh-OC)
+- [opencore-configurator](https://mackie100projects.altervista.org/download-opencore-configurator/)
+- [Hackintool](https://github.com/headkaze/Hackintool/releases)
 
