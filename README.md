@@ -1,7 +1,13 @@
 ![](https://raw.githubusercontent.com/superleeyom/blog/main/img/iShot20201115.png)
 
+## 更新
+
+### 2021-04-30
+
+- 参考[@Good0007](https://github.com/Good0007) 的 [EFI](https://github.com/Good0007/B365ITX-Hackintosh-OC)，成功将系统升级到了 macOS Big Sur 11.2.3，opencore 版本 0.6.8，感谢大佬的帮助，并在此基础上，根据自己的硬件，去掉了部分无用的驱动，睡眠更加完善了。
 
 ## 硬件配置
+
 其实我这台黑苹果，今年年初三月份的时候就装好了，周末趁着有空，把系统升级到了 `macOS Big Sur` ，在此总结下自己的整个的安装的一些心得。
 
 我这台黑苹果主机的整体配置清单如下：
