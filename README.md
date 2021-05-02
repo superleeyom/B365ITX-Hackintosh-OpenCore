@@ -2,6 +2,12 @@
 
 ## 更新
 
+### 2021-05-02
+
+- 修复无法使用usb3.0的问题
+- 删除 USBPower.kext 驱动
+- XhciPortLimit 取消勾选，USBInjectAll.kext 取消勾选，USBPorts.kext 勾选
+
 ### 2021-05-01
 
 - 今天不小心OTA到了macOS Big Sur 11.3，结果发现 usb 失效了，鼠标键盘都无法使用，后面通过查找资料，将配置文件中的 XhciPortLimit 设置为 false 后（取消勾选，我这个之前默认是勾选上的☑️），重启系统，usb 则使用正常，咨询了群里的黑果大佬们，说是要重新定制 usb 端口，这个暂时还不太会，后面再继续研究。
